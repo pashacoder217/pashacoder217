@@ -28,7 +28,7 @@ A brief description of what this project does and the technologies used.
 A brief description of what this project does and the technologies used.
 
 ## 📫 Get in Touch
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [your.pavloradionov217@gmail.com](mailto:pavloradionov217@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Portfolio:** [Your Portfolio](https://yourportfolio.com)
 
