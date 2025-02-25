@@ -27,11 +27,6 @@ A brief description of what this project does and the technologies used.
 ### [Project Name 3](https://github.com/yourusername/project3)
 A brief description of what this project does and the technologies used.
 
-## 📫 Get in Touch
-- **Email:** [your.pavloradionov217@gmail.com](mailto:pavloradionov217@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)
-
 ## 🌱 Currently Learning
 - Advanced TypeScript
 - Microservices architecture
